@@ -2,6 +2,8 @@
 
 This project is created for self-development purposes and focuses on analyzing Airbnb booking data using a Python Jupyter Notebook and visualizing the results through Power BI. The dataset used for this analysis is obtained from [Kaggle](https://www.kaggle.com/datasets/prahalmendon/airbnb-booking-analysis). The Jupyter Notebook contains exploratory data analysis (EDA) steps, including importing libraries, loading the dataset, checking variables and unique values, data dimension, statistical features, data cleaning (handling missing values and outliers), and finding correlations between variables using a heat map. The Power BI dashboard provides multiple scorecards presenting important insights from the analysis.
 
+![Dashboard](Airbnb%20PowerBI%20Dashboard.png)
+
 ## Dataset
 
 The Airbnb booking dataset used for this analysis can be found on Kaggle. You can access the dataset using the following link:
